@@ -33,7 +33,7 @@
 
 <hr>
 
-- `yaen tsc` 
+- `yarn tsc` 
 
     transforma seu codigo typescript em Javascript puro
 
